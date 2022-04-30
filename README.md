@@ -1,1 +1,3 @@
-# new
+(Root@kali)-[~/storm~breaker]
+# ls
+
